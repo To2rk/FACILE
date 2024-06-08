@@ -1,0 +1,5 @@
+opencv-python
+jpeg4py
+scikit-learn
+pandas
+matplotlib

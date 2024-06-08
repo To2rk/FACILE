@@ -1,0 +1,12 @@
+*.pt
+*.pkl
+*.json
+*.png
+*.jpg
+*.tar
+*.tar.gz
+*.v2
+*.pb
+*.gz
+*.pth
+
